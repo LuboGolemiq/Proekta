@@ -1,0 +1,14 @@
+C:\Users\Lyubomir Palazov\Desktop\Programing\Proekt1\Zadacha3\bin\Debug\net8.0\Zadacha3.exe
+C:\Users\Lyubomir Palazov\Desktop\Programing\Proekt1\Zadacha3\bin\Debug\net8.0\Zadacha3.deps.json
+C:\Users\Lyubomir Palazov\Desktop\Programing\Proekt1\Zadacha3\bin\Debug\net8.0\Zadacha3.runtimeconfig.json
+C:\Users\Lyubomir Palazov\Desktop\Programing\Proekt1\Zadacha3\bin\Debug\net8.0\Zadacha3.dll
+C:\Users\Lyubomir Palazov\Desktop\Programing\Proekt1\Zadacha3\bin\Debug\net8.0\Zadacha3.pdb
+C:\Users\Lyubomir Palazov\Desktop\Programing\Proekt1\Zadacha3\obj\Debug\net8.0\Zadacha3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyubomir Palazov\Desktop\Programing\Proekt1\Zadacha3\obj\Debug\net8.0\Zadacha3.AssemblyInfoInputs.cache
+C:\Users\Lyubomir Palazov\Desktop\Programing\Proekt1\Zadacha3\obj\Debug\net8.0\Zadacha3.AssemblyInfo.cs
+C:\Users\Lyubomir Palazov\Desktop\Programing\Proekt1\Zadacha3\obj\Debug\net8.0\Zadacha3.csproj.CoreCompileInputs.cache
+C:\Users\Lyubomir Palazov\Desktop\Programing\Proekt1\Zadacha3\obj\Debug\net8.0\Zadacha3.dll
+C:\Users\Lyubomir Palazov\Desktop\Programing\Proekt1\Zadacha3\obj\Debug\net8.0\refint\Zadacha3.dll
+C:\Users\Lyubomir Palazov\Desktop\Programing\Proekt1\Zadacha3\obj\Debug\net8.0\Zadacha3.pdb
+C:\Users\Lyubomir Palazov\Desktop\Programing\Proekt1\Zadacha3\obj\Debug\net8.0\Zadacha3.genruntimeconfig.cache
+C:\Users\Lyubomir Palazov\Desktop\Programing\Proekt1\Zadacha3\obj\Debug\net8.0\ref\Zadacha3.dll
